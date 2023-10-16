@@ -17,6 +17,10 @@ export const menuItems = [
         label: 'About Us',
       },
       {
+        path: '/services',
+        label: 'Services',
+      },
+      {
         path: '#!',
         label: 'Copyright',
       },

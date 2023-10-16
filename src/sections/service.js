@@ -101,7 +101,7 @@ const settings = {
   ],
 };
 
-const Services = () => {
+const Service = () => {
   return (
     <section id="services" sx={styles.section}>
       <Container>
@@ -122,7 +122,7 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Service;
 
 const styles = {
   section: {

@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 #nprogress .bar {
     background: #f60303 !important;
     z-index: 5000 !important;
